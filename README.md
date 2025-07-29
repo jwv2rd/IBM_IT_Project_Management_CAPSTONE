@@ -60,7 +60,7 @@ This project demonstrates my ability to:
 
 ## 📬 Contact
 
-For more information or to view my full project management portfolio, feel free to connect via [LinkedIn](https://www.linkedin.com/in/joshuwvarner) or reach out at **jwv.arner@outlook.com**.
+For more information or to view my full project management portfolio, feel free to connect via [LinkedIn](https://www.linkedin.com/in/joshuawvarner) or reach out at **jwv.arner@outlook.com**.
 
 ---
 
